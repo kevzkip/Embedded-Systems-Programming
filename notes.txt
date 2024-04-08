@@ -1,0 +1,7 @@
+In this repository, I completed a series of tasks focused on Git, GitHub, and open-source practices. 
+Starting with Task 3, I successfully managed branches by creating a new branch named feature-update,
+making changes to files, and committing them. Additionally, I resolved any conflicts encountered during the merge process. 
+Moving to Task 4, I enabled GitHub Pages for the repository by creating a simple HTML file named index.html and setting the source branch to main.
+Finally, in Task 5, I explored the Circuit Simulator open-source project, reviewing its documentation, issues, and contribution guidelines. 
+As part of this exploration, I opened a new issue "https://github.com/circuitsim/circuit-simulator/issues/43" suggesting an improvement or reporting a bug. 
+Through these tasks, I gained hands-on experience in version control, collaboration, and contributing to open-source projects.
